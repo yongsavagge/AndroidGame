@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidGame</string>
+    <string name="textV">Gira tu teléfono hacia la derecha haciendo un movimiento de "látigo" para ganar!</string>
+    <string name="latigo">¡Dale con el Látigo!</string>
+</resources>
